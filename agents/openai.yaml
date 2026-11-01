@@ -1,0 +1,4 @@
+interface:
+  display_name: "植物平面化"
+  short_description: "把植物照片重构为主图或无文字生命周期科普插画"
+  default_prompt: "Use $plant-flat-stylizer to turn this plant photo into a recognizable line-led dopamine illustration, and when appropriate expand it with complementary organ or life-cycle studies in an airy text-free poster."
